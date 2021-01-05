@@ -6,7 +6,7 @@
 * ROSKOSCHNY Cyril
 
 ## ENGLISH: Warning!
-**The project does not include any English translation since it was made in a short span of time!**
+**The project does not include any English translation since it was made in a short span of time and as a school project! Sorry for the inconvenience!**
 
 ## Captures d'écran // Screenshots
 
