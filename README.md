@@ -5,6 +5,9 @@
 * CARPENTIER Thibaut
 * ROSKOSCHNY Cyril
 
+## ENGLISH: Warning!
+**The project does not include any English translation since it was made in a short span of time!**
+
 ## Captures d'écran // Screenshots
 
 ### Menu principal // Main Menu
